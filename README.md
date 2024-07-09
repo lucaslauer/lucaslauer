@@ -1,7 +1,7 @@
 # 👋 Olá! Bem vindo ao meu perfil Github.
 ## Meu nome é Lucas Lauer Oliveira e meu apelido é "Lucas Oliveira"!
 
-- Estudando Análise e Desenvolvimento de Sistmas na Universidade Feevale (2º trimestre)
+- Estudando Análise e Desenvolvimento de Sistemas na Universidade Feevale (2º trimestre)
 
 - Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="25" height="25" /> e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="25" height="25"/>.
   
