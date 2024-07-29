@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Meu nome é Lucas Lauer Oliveira e meu apelido é "Lucas Oliveira"!</h2>
+<h2 align="left">Meu nome é Lucas Lauer Oliveira!</h2>
 
 ###
 
