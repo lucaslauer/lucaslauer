@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Estudando Análise e Desenvolvimento de Sistemas na Universidade Feevale (5tº trimestre)</p>
+<p align="left">- Estudando Análise e Desenvolvimento de Sistemas na Universidade Feevale (5º trimestre)</p>
 
 ###
 
